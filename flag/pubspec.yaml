@@ -10,7 +10,9 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  flutter_svg: ^0.14.0
+  flutter_svg:
+    git: https://github.com/muhleder/flutter_svg
+
 
 dev_dependencies:
   flutter_test:
