@@ -11,8 +11,9 @@ dependencies:
   flutter:
     sdk: flutter
   flutter_svg:
-    git: https://github.com/muhleder/flutter_svg
-
+    git: 
+      url: https://github.com/muhleder/flutter_svg
+      ref: f60eab6ebc8efd680b5951147f5af90d443cdfbe
 
 dev_dependencies:
   flutter_test:
